@@ -1,1 +1,1 @@
-https://github.com/shreemathi021006/pcb-designs/tree/schematics
+schematic link - https://github.com/shreemathi021006/pcb-designs/tree/schematics
